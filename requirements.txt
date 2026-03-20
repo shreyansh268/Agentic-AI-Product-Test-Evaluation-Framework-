@@ -1,0 +1,9 @@
+# Dependencies for Financial AI Test Framework
+selenium
+requests
+ragas
+deepeval
+garak
+locust
+behave
+pytest
